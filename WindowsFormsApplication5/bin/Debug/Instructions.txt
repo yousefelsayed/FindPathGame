@@ -1,0 +1,14 @@
+Welcome to roll the ball game
+to play this game you should make clear path from the start box to end box 
+to do this you need to change the location of the scattered boxes to win the game
+you would change locations between boxes by clicking one click on the first box
+and another click in the other box. please make sure that the two boxes are beside 
+each other,unless they will not move . you can open the harder levels by passing
+levels  squentially.      
+                              . Good Luck .
+All copyrights reserved to owners of this game 
+Youssif Aly Khairy 
+Hesham 
+Youssef Salah 
+Hesham
+Youssef El Sayed
